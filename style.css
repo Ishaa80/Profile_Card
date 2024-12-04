@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+.card{
+    margin: 50px auto ;
+    width: 40%;
+    border: 1px solid #000;
+    text-align: center;
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow: 0px 4px 15px 2px #382f2f;
+    background-color: rgb(42, 39, 39);
+    color: aliceblue;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img{
+   border-radius: 90%;
+   height: 10%;
+   width: 30%;
+   border-radius: 100%;
+}
+
+h1 ,p {
+    margin-bottom: 15px;
+}
+
+button{
+    background-color: deepskyblue;
+    width: 30%;
+    color: rgb(0, 0, 0);
+    padding: 6px;
+    border-radius: 10px;
+    font-size: 12px;
+    border: 1px solid deepskyblue;
+}
+
+button a{
+    text-decoration: none;
+    color: white;
+}
